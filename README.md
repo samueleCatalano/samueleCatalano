@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @samueleCatalano
 - 👀 I’m interested in coding and cybersecurity
 - 🌱 I’m currently learning Java Spring
-- 💞️ I’m looking to collaborate on ...
+- 👨‍💻 I'm working on the project Flow_Open_Spring
 - 📫 How to reach me csamuele73@gmail.com
 
 <!---
