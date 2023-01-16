@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @samueleCatalano
 - 👀 I’m interested in coding and cybersecurity
-- 🌱 I’m currently learning Java Spring
-- 👨‍💻 I'm working on the project Flow_Open_Spring
+- 🌱 I’m currently learning microservices in Java and Docker
+- 👨‍💻 I'm working on an insurance project at StackHouse Academy
 - 📫 How to reach me csamuele73@gmail.com
 
 <!---
